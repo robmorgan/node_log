@@ -21,5 +21,5 @@ var server = tcp.createServer(function (socket) {
     socket.close();
   });
 });
-sys.puts("Server at http://" + (HOST || "localhost") + ":" + PORT.toString() + "/");
+sys.puts("Server at tcp://" + (HOST || "localhost") + ":" + PORT.toString() + "/");
 server.listen(PORT, HOST || "localhost");
