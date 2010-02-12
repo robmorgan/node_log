@@ -25,7 +25,7 @@ Run it!
 
 Now you can write log/debug messages to the node_log server.
 I have developed an adapter for [Zend Framework](http://framework.zend.com/), you can find here:
-[github.com/robmorgan/zfnode_log_adapter](http://github.com/robmorgan/zfnode_log_adapter/)
+[github.com/robmorgan/zfnode_log_writer](http://github.com/robmorgan/zfnode_log_writer)
 
 Author
 ------
